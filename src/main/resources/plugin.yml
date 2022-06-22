@@ -1,0 +1,8 @@
+name: LuxuryEmojiPlugin
+version: '${project.version}'
+main: pextystudios.luxuryemojiplugin.LuxuryEmojiPlugin
+api-version: 1.18
+authors: [ TeaCondemns ]
+description: Plugin for best experience with "Luxury Emoji" resource pack
+commands:
+  emojilist: {}

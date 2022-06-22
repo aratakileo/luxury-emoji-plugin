@@ -1,0 +1,4 @@
+emoji:
+  names-enabled: true  # looks like: `:slight_smile:`
+  literals-enabled: true  # looks like: `:)`
+  index-enabled: true  # looks like: `%eid:781%`
