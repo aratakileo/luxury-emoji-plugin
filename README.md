@@ -1,4 +1,4 @@
-# luxury-emoji-plugin
+# luxury-emoji-plugin <img src="https://github.com/teacondemns/static.pexty.xyz/blob/main/src/icon/emoji/animated/minecraft.gif?raw=true" height="35"/>
 Plugin for minecraft 1.18.2 for "Luxury Emoji" resource pack
 
 You can
